@@ -1,0 +1,3 @@
+compare_method.py中测试jieba、hanlp、thulac分词方法
+cut_word.py中实现前向最长匹配分词算法
+pku_training.utf8，pku_test.utf8为训练集和测试集
